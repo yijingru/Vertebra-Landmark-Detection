@@ -15,7 +15,7 @@ Please cite the article in your publications if it helps your research:
 
 
 <p align="center">
-	<img src="imgs/pic1.png", width="800">
+	<img src="imgs/pic1.png", width="400">
 </p>
 
 <p align="center">
