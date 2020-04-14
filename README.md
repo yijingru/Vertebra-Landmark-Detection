@@ -28,7 +28,7 @@ Ubuntu 14.04, Python 3.6.4, PyTorch 1.1.0, OpenCV-Python 4.1.0.25
 # How to start
 ## Prepare Dataset
 To directly use dataset.py, you can arrange the dataset as follows:
-'''ruby
+```
 /path/data
 	/train/*.jpg
 	/val/*.jpg
@@ -37,7 +37,7 @@ To directly use dataset.py, you can arrange the dataset as follows:
 	/train/*.mat
 	/val/*.mat
 	/test/*.mat
-'''
+```
 	
 ## Train the model
 ```ruby
