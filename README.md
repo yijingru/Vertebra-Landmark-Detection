@@ -38,7 +38,7 @@ To directly use dataset.py, you can arrange the dataset as follows:
 	/val/*.mat
 	/test/*.mat
 ```
-The source dataset is from [[dataset16] (http://spineweb.digitalimaginggroup.ca/spineweb/index.php?n=Main.Datasets#Dataset_16.3A_609_spinal_anterior-posterior_x-ray_images)].
+The source dataset is from [[dataset16](http://spineweb.digitalimaginggroup.ca/spineweb/index.php?n=Main.Datasets#Dataset_16.3A_609_spinal_anterior-posterior_x-ray_images)].
 To adapt the code to your own dataset, you can modify the dataset.py, for example, change the 'load_gt_pts' function to adapt it to your own annotations.
 	
 ## Train the model
